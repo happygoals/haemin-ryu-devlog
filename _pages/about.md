@@ -5,7 +5,7 @@ author: "Haemin Ryu"
 permalink: /about/
 ---
 
-<img src="../assets/Haeminticon.png" alt="poster" style="width:100px;height:100px;">
+<img src="../assets/Haeminticon.png" alt="poster" style="width:150px;height:150px;">
 
 I love making new things for someone. I’m currently a senior student at Purdue University Fort Wayne. After I graduate with my computer science degree, I hope to work a full-time job as a software engineer. I took an interested in Web Development, Human-Computer Interaction, and the Software Engineering area. I love making changes to help people and making humans' life better. 
 
