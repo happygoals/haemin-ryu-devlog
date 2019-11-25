@@ -1,16 +1,16 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-url:            "https://chesterhow.github.io"
+title:          Haemin Ryu DevLog
+description:    "Haemin's DevLog"
+url:            "https://haemin.ryu.devlog/"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Haemin Ryu
+  url:          https://haemin.ryu.devlog
+  email:        happygoals95@gmail.com
 
 # Build settings
 markdown:       kramdown
