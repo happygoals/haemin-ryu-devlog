@@ -14,17 +14,15 @@ Learn more.. click [Pymetrics](https://www.pymetrics.com/employers/)
 
 <img src="../assets/post/pymetrics_result1.png" alt="poster" style="width:500px;height:439px;">
 <img src="../assets/post/pymetrics_result2.png" alt="poster" style="width:500px;height:405px;">
-<img src="../assets/post/pymetrics_result3.png" alt="poster" style="width:1400px;height:1200px;">
-<img src="../assets/post/pymetrics_result4.png" alt="poster" style="width:1400px;height:1200px;">
-<img src="../assets/post/pymetrics_result5.png" alt="poster" style="width:1400px;height:1200px;">
-<img src="../assets/post/pymetrics_result6.png" alt="poster" style="width:1400px;height:1200px;">
-<img src="../assets/post/pymetrics_result7.png" alt="poster" style="width:1400px;height:1200px;">
-<img src="../assets/post/pymetrics_result8.png" alt="poster" style="width:1400px;height:1200px;">
-<img src="../assets/post/pymetrics_result9.png" alt="poster" style="width:1400px;height:1200px;">
-<img src="../assets/post/pymetrics_result10.png" alt="poster" style="width:1400px;height:1200px;">
-<img src="../assets/post/pymetrics_result11.png" alt="poster" style="width:1400px;height:1200px;">
-<img src="../assets/post/pymetrics_result12.png" alt="poster" style="width:1400px;height:1200px;">
+<img src="../assets/post/pymetrics_result3.png" alt="poster" style="width:500px;height:430px;">
+<img src="../assets/post/pymetrics_result4.png" alt="poster" style="width:500px;height:402px;">
+<img src="../assets/post/pymetrics_result5.png" alt="poster" style="width:500px;height:383px;">
+<img src="../assets/post/pymetrics_result6.png" alt="poster" style="width:500px;height:401px;">
+<img src="../assets/post/pymetrics_result7.png" alt="poster" style="width:500px;height:242px;">
+<img src="../assets/post/pymetrics_result8.png" alt="poster" style="width:500px;height:259px;">
+<img src="../assets/post/pymetrics_result9.png" alt="poster" style="width:500px;height:229px;">
+<img src="../assets/post/pymetrics_result10.png" alt="poster" style="width:500px;height:252px;">
+<img src="../assets/post/pymetrics_result11.png" alt="poster" style="width:500px;height:241px;">
+<img src="../assets/post/pymetrics_result12.png" alt="poster" style="width:500px;height:244px;">
 
 Here is the report from Pymetrics: <a href="../assets/post/files/factor-trait-report_ryu-haemin.pdf" target="_blank">PDF.</a>
-
-
