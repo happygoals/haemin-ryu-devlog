@@ -13,7 +13,7 @@ Learn more.. click [Pymetrics](https://www.pymetrics.com/employers/)
 
 
 <img src="../assets/post/pymetrics_result1.png" alt="poster" style="width:500px;height:439px;">
-<img src="../assets/post/pymetrics_result2.png" alt="poster" style="width:1400px;height:1200px;">
+<img src="../assets/post/pymetrics_result2.png" alt="poster" style="width:500px;height:405px;">
 <img src="../assets/post/pymetrics_result3.png" alt="poster" style="width:1400px;height:1200px;">
 <img src="../assets/post/pymetrics_result4.png" alt="poster" style="width:1400px;height:1200px;">
 <img src="../assets/post/pymetrics_result5.png" alt="poster" style="width:1400px;height:1200px;">
