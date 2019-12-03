@@ -11,13 +11,13 @@ The pymetrics games are designed to be fun and simple, and should take no longer
 
 These are my most unique 3 categories:
 
-1) EFFORT: I tend to work equally hard on all tasks,regardless of how much you expect to be rewarded by completing tasks
+1) EFFORT: I tend to work equally hard on all tasks, regardless of how much I expect to be rewarded by completing tasks
 successfully.
 
-2) RISK TOLERANCE: I tend to carefully test options and choose the safest method to achieve an objective.You also tend to be averse to negative outcomes.
+2) RISK TOLERANCE: I tend to carefully test options and choose the safest method to achieve an objective. I also tend to be averse to negative outcomes.
 
-3) ATTENTION: I tend to be methodical in the way you complete tasks and are often thorough and restrained.You may find
-that you prefer to focus on accuracy over speed on tasks, and this may support you to avoid making mistakes.
+3) ATTENTION: I tend to be methodical in the way you complete tasks and are often thorough and restrained. I may find
+that I prefer to focus on accuracy over speed on tasks, and this may support me to avoid making mistakes.
 
 
 Here is the report from Pymetrics: <a href="../assets/post/files/factor-trait-report_ryu-haemin.pdf" target="_blank">PDF.</a>
