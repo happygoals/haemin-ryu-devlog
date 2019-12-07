@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "About"
-author: "Haemin Ryu"
+title: "Projects"
 permalink: /projects/
 ---
 
