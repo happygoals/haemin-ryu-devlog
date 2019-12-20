@@ -17,8 +17,7 @@ Here is the instructions for the officer in the Acirema National Bank/
   (2) Issue bank letters      
   
 <b>Suggested Actions</b> 
-
-    <b>Execution of Bank Statement</b>
+    - <b>Execution of Bank Statement</b>
     Upon request, issue a bnk statement for the student. Randomly pick the statement, you will have 3 options. One statement will be too old (dated December 2018), one will not show enough money (only $34,990).
     The other document will be recent and show enough money $35,000. 
     
