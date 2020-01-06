@@ -14,6 +14,6 @@ I took an interested in **Web Development**, **Human-Computer Interaction**, and
 ## Get In Touch!
 Feel free to contact me 
 [Gmail](mailto://developer.haemin.ryu@gmail.com)
+[Phone](tel:260-255-2983)
 [GitHub](https://github.com/happygoals)
-[Portfolio](https://happygoals.github.io/)
-
+[Portfolio](https://happygoals.github.io)
