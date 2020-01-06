@@ -303,7 +303,7 @@ permalink: /projects/
 			<a href="https://github.com/happygoals/Team7_PFW_Capstone">
 				<h2>Indoor Navigation</h2>
 				<div class="content">
-					<p>This project include web development utilizing data and business analytics, targeted advertisements that will promote Parkview technologies... </p>
+					<p>This project include web development utilizing data and business analytics, targeted advertisements that will promote Parkview technologies with data visualization and employee administration management systems... </p>
 				</div>
 			</a>
 		</article>
@@ -314,7 +314,7 @@ permalink: /projects/
 			<a href="http://erc.pfw.edu/">
 				<h2>Environment Resource Center</h2>
 				<div class="content">
-					<p>Redesigned the the Environmental Resource Center websites(Biology Dept. @PFW) for Purdue rebranding, herpetofauna Education and Research Program website using wordpress</p>
+					<p>Redesigned the the Environmental Resource Center websites (Biology Dept. @PFW) for Purdue rebranding, herpetofauna Education and Research Program website using wordpress.</p>
 				</div>
 			</a>
 		</article>
@@ -325,7 +325,7 @@ permalink: /projects/
 			<a href="http://github.com/happygoals/web_app_dev_fall2018">
 				<h2>Snackfacts</h2>
 				<div class="content">
-					<p>Snackfacts is a vending machine marketing analytics tool. A user can input data into survey, which are the saved into our database.  The data we collect is then presented in a comprehensive analysis screen... </p>
+					<p>Snackfacts is a vending machine marketing analytics tool. A user can input data into survey, which are the saved into our database. The data we collect is then presented in a comprehensive analysis screen... </p>
 				</div>
 			</a>
 		</article>
