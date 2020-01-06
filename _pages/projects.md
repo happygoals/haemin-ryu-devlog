@@ -14,9 +14,6 @@ permalink: /projects/
 			color: inherit;
 		}
 
-	h2 {
-		font-size: 1.1em;
-	}
 	
 	.tiles {
 		display: -moz-flex;
