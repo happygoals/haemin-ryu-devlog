@@ -278,11 +278,6 @@ permalink: /projects/
 
 		}
 </style> 
- 
-[Gmail](mailto://developer.haemin.ryu@gmail.com)
-[Phone](tel:260-255-2983)
-[GitHub](https://github.com/happygoals)
-[Portfolio](https://happygoals.github.io/)
 
 <section class="tiles">
 		<article class="style1">
@@ -333,7 +328,7 @@ permalink: /projects/
 			<span class="image">
 				<img src="../assets/images/pic05.jpg" alt="" style="width:250px;height:250px;"/>
 			</span>
-			<a href="generic.html">
+			<a href="https://users.pfw.edu/kimb/">
 				<h2>Professor's Personal Website</h2>
 				<div class="content">
 					<p>I developed several professors’ personal websites.</p>
