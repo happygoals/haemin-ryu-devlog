@@ -285,13 +285,11 @@ permalink: /projects/
 
 		}
 </style> 
-
-<center> 
+ 
 [Gmail](mailto://developer.haemin.ryu@gmail.com)
 [Phone](tel:260-255-2983)
 [GitHub](https://github.com/happygoals)
 [Portfolio](https://happygoals.github.io/)
-</center>
 
 <section class="tiles">
 		<article class="style1">
@@ -310,9 +308,9 @@ permalink: /projects/
 				<img src="../assets/images/pic02.jpg" alt="" style="width:250px;height:250px;"/>
 			</span>
 			<a href="https://github.com/happygoals/Team7_PFW_Capstone">
-				<h2>Indoor Navigation : Improved Accessibility for People with Disabilities </h2>
+				<h2>Indoor Navigation</h2>
 				<div class="content">
-					<p>This project include web development utilizing data and business analytics, targeted advertisements that will promote Parkview technologies ... </p>
+					<p>This project include web development utilizing data and business analytics, targeted advertisements that will promote Parkview technologies... </p>
 				</div>
 			</a>
 		</article>
@@ -323,7 +321,7 @@ permalink: /projects/
 			<a href="http://erc.pfw.edu/">
 				<h2>Environment Resource Center</h2>
 				<div class="content">
-					<p> Using Wordpress, I recreated the the Environmental Resource Center websites related in the department of the biology for Purdue rebranding, herpetofauna Education and Research Program website.</p>
+					<p>Redesigned the the Environmental Resource Center websites(Biology Dept. @PFW) for Purdue rebranding, herpetofauna Education and Research Program website using wordpress</p>
 				</div>
 			</a>
 		</article>
