@@ -11,6 +11,7 @@ author: "Haemin Ryu"
 At the beginning of the year, I was so frustrating from the things to do before I graduate, my goal was to be graduated and to become a better software developer. I got inspired from people around me, especially my capstone team members and the classmates, pushing me to greatness.
 
 **Thankful moments of 2019**
+
 _Job searching as a software engineer_
 I took a technical on-site interview sometime this year for a software position at a company. It was my first time interacting with the platform in the United States, I was used to Hackerrank mostly then. I did several coding challenge on Hackerrank. I mostly used Java for solving problems. At first, I got the zero percentage on the test and it made me motivated. After that, I started to study and strengthen my programming skill inclduing Data Structures and Algorithms, and I continued to review the solution of my coding challenge on Hackerrank with practice problems. 
 _Senior year as a computer science student_
@@ -19,6 +20,7 @@ _Traveling in the US, Canada, and Cuba_
 I traveled 11 different states(Indiana, Illinois, Michigan, Ohio, Kentucky, Wisconsin, California, Arizona, Nevada, Washinton, New York) in USA this year. Additionally, I went to Toronto, Canada like a little road trip for 3days. During spring break, I adventure to Cuba for a week. I had an excited year, I made such good friends around the US, I have learned  by traveling. I truly appreciate the time and circumtances that I was given. 
 
 **Plans for 2020**
+
 1. Be an open-handed person: Based on what I was given by people around me, I would like to share my knowleage and contribute to the community in 2020. I will be more involved in the software engineer, volunteer, and HCI community this upcoming year. If there's a chance, I would like to contribute to open source project. I'm interested in voluntarily research in Software engineering or Human Computer Interaction area. 
 2. Start writing regularly:I'm looking to write way more than I did in 2019.
 3. Watch! Listen! Read! 
@@ -27,6 +29,7 @@ I traveled 11 different states(Indiana, Illinois, Michigan, Ohio, Kentucky, Wisc
 
 
 **In conclusion(Overall Vision)**
+
 When I first came to the US, I’ve got confidence at college because I already knew the power of failures.
 Today I had a flashback of all pictures from the start of my college life until this moment. I'm so sad to leave with millions of treasurable moments I had all these years. I'm much blessed to have learned something to live all my life.
 Now I understand how much I have changed with spent time in college within laughs, tears, and stories. During college, I could find myself, my hidden talents, and the meaning of true friendship. No one could have survived their college life without their friends. I owe a lot of happiness here, and I'm deeply grateful for all the lessons I got from college.
