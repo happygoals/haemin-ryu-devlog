@@ -10,6 +10,7 @@ author: "Haemin Ryu"
 
 At the beginning of the year, I was so frustrating from the things to do before I graduate, my goal was to be graduated and to become a better software developer. I got inspired from people around me, especially my capstone team members and the classmates, pushing me to greatness.
 
+<hr>
 **Thankful moments of 2019**
 
 _Job searching as a software engineer_
@@ -21,13 +22,13 @@ I traveled 11 different states(Indiana, Illinois, Michigan, Ohio, Kentucky, Wisc
 
 **Plans for 2020**
 
-1. Be an open-handed person: Based on what I was given by people around me, I would like to share my knowleage and contribute to the community in 2020. I will be more involved in the software engineer, volunteer, and HCI community this upcoming year. If there's a chance, I would like to contribute to open source project. I'm interested in voluntarily research in Software engineering or Human Computer Interaction area. 
+1. Be an open-handed person: Based on what I was given by people around me, I would like to share my knowleage and contribute to the community in 2020. I will be more involved in the software engineer, volunteer, and <abbr title="Human-Computer Interaction">HCI</abbr> community this upcoming year. If there's a chance, I would like to contribute to open source project. I'm interested in voluntarily research in Software engineering or <abbr title="Human-Computer Interaction">HCI</abbr> area. 
 2. Start writing regularly:I'm looking to write way more than I did in 2019.
 3. Watch! Listen! Read! 
-4. Minimize: I decided to practice a more empty(but fullfiled!) life to be careful not to place greed and arrogance where love should be.
+4. Minimize: I decided to practice a more empty~~but fullfiled!~~ life to be careful not to place greed and arrogance where love should be.
 5. Be more courage,  integrity, and courtesy. 
 
-
+<hr>
 **In conclusion(Overall Vision)**
 
 When I first came to the US, I’ve got confidence at college because I already knew the power of failures.
