@@ -41,7 +41,7 @@ I have played a bass guitar since 2014 and finally my dream came true. God alway
 5. _Be more courage,  integrity, and courtesy_. 
 
 <hr>
-**In conclusion(Overall Vision)**
+**In conclusion - Overall Vision**
 
 When I first came to the US, I’ve got confidence at college because I already knew the power of failures.
 Today I had a flashback of all pictures from the start of my college life until this moment. I'm so sad to leave with millions of treasurable moments I had all these years. I'm much blessed to have learned something to live all my life.
