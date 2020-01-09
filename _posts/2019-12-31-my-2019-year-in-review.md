@@ -17,14 +17,17 @@ At the beginning of the year, I was so frustrating from the things to do before 
 <br>
 I took a technical on-site interview sometime this year for a software position at a company. It was my first time interacting with the platform in the United States, I was used to Hackerrank mostly then. I did several coding challenge on Hackerrank. I mostly used Java for solving problems. At first, I got the zero percentage on the test and it made me motivated. After that, I started to study and strengthen my programming skill inclduing Data Structures and Algorithms, and I continued to review the solution of my coding challenge on Hackerrank with practice problems. 
 <br>
+
 #_Senior year as a computer science student_
 <br>
 As the graduating semester is coming, I have found many opportunities I could reach out as an undergraduate CS student. Before I graduate, I no longer had much time being a college student and had no place to retreat anymore. To get more opportunities, I knocked on the door, step into the field, and took courage to find my own way. 
 <br>
+
 #_Traveling in the US, Canada, and Cuba_
 <br>
 I traveled 11 different states(Indiana, Illinois, Michigan, Ohio, Kentucky, Wisconsin, California, Arizona, Nevada, Washinton, New York) in USA this year. Additionally, I went to Toronto, Canada like a little road trip for 3days. During spring break, I adventure to Cuba for a week. I had an excited year, I made such good friends around the US, I have learned  by traveling. I truly appreciate the time and circumtances that I was given. 
 <br>
+
 #_Worship team member as a bassist_
 <br>
 I have played a bass guitar since 2014 and finally my dream came true. God always uses me in ways I never imagined. It was so grateful to play bass guitar at Hanmaum Church once a week with the best and the warmest worship team members. 
