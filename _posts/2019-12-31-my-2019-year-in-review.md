@@ -37,7 +37,7 @@ I created the skeleton and main design of:
  - A sales list page to access and ship their sales for local growers
  - A product view page
  - A user settings
- - A Payment detail page
+ - A payment detail page
  - A shopping cart page to buy multiple items.
 
 #### Indoor Navigation: Improved Accessibility for People with Disabilities (Sponsered by Parkview Health)
