@@ -28,9 +28,17 @@ I helped New Student Orientation at Department of Computer Science for Fall 2019
 
 ### Projects
 
-#### Digital Harvest  Jul 2019 –  Oct 2019               	              
+#### Digital Harvest              	              
 After I completed my senior design project, I produced much of the front-end code. As a part of the Department of Computer Science, Prof. Max Fowler and I moved forward into the actual development portion of a web application to help food growers through online market. The goal of the project was to navigate the student to learn how to develop an integrated web applicaiton using the tutorial 'DIGITAL HARVEST WEBSITE' and I was a responsiblity of the Front-end development part. 
-I created the skeleton and main design of a registration page for buyers and sellers, a confirmation email page, a managing products page for local growers, a sales list page to access and ship their sales for local growers, an analytics page on sales for local growers, and a product view page, a user setting (info), a Payment detail page, and a shopping cart page to buy multiple items.
+I created the skeleton and main design of:
+ - A registration page for buyers and sellers
+ - A confirmation email page
+ - A management products page for local growers
+ - A sales list page to access and ship their sales for local growers
+ - A product view page
+ - A user settings
+ - A Payment detail page
+ - A shopping cart page to buy multiple items.
 
 #### Indoor Navigation: Improved Accessibility for People with Disabilities (Sponsered by Parkview Health)
 During a year (May 2018 – Apr 2019), our team Developed a web application with data visualization and employee administration management systems. The primary purpose of this project is to improve upon the previous generation of the Indoor Navigation Mobile Application that was created for the Parkview Regional Medical Campus (PRMC) in Fort Wayne, Indiana. This project aims to utilize new technologies with a focus on the patient experience to keep PRMC ahead of the competitors. In our project, we have 3 different key parts, web development, targeted advertisements, and improved mobile application navigation. As a Front-end Lead Developer, I had focused on the web development to presents analyzed data and business analytics to administrative staff in a comprehensive manner. For example, using the webpage, the Parkview staff could determine what time are most populated, and by which age group or gender. This would allow for an in-depth look at particular patient demographics, giving Parkview the tools to improve upon their already great services.
@@ -64,6 +72,7 @@ I traveled 11 different states(Indiana, Illinois, Michigan, Ohio, Kentucky, Wisc
 ### Worship team member as a bassist_
 <br>
 I have played a bass guitar since 2014 and finally my dream came true. God always uses me in ways I never imagined. It was so grateful to play bass guitar at Hanmaum Church once a week with the best and the warmest worship team members. 
+<br>
 
 ## Plans for 2020
 
