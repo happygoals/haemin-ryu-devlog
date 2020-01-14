@@ -23,7 +23,7 @@ I assisted for CS36000 Software Engineering TA since September 2018 with Dr. Ven
 #### CS Student Worker
 In the CS department's office, I kept the CS Department office for a while when the secretary needed me, at the same time, I got a phone call and did some paperworks. Thanks to Kaye, I enjoyed a lot working and serving as a CS student worker in 2019.
 
-I helped New Student Orientation at Department of Computer Science for Fall 2019. During summer, as a student worker, I guided new CS student to the tour of CS deparment(Labs -> Hallway -> Dept. Office -> IAV Center) with Introduction of CS department & Programs. I had presented the 'Introduction of class registration' and explained 'How to use myBLUEprint'. After completing academic advising survey, students needed to get an academic advising. When student tried to register their class, I taught them how to utilize the registration system for registering their courses. This experience improved my presentation skils to stand in front of the students. 
+I helped New Student Orientation at Department of Computer Science for Fall 2019. During summer, as a student worker, I guided new CS student to the tour of CS deparment (Labs -> Hallway -> Dept. Office -> IAV Center) with Introduction of CS department & Programs. I had presented the 'Introduction of class registration' and explained 'How to use myBLUEprint'. After completing academic advising survey, students needed to get an academic advising. When student tried to register their class, I taught them how to utilize the registration system for registering their courses. This experience improved my presentation skils to stand in front of the students. 
 
 
 ### Projects
@@ -55,22 +55,18 @@ Some of my responsibilities as a Front-end Lead Developer include:
 ## Thankful Moments of 2019
 
 ### Job searching as a software engineer_
-<br>
 I took a technical on-site interview sometime this year for a software position at a company. It was my first time interacting with the platform in the United States, I was used to Hackerrank mostly then. I did several coding challenge on Hackerrank. I mostly used Java for solving problems. At first, I got the zero percentage on the test and it made me motivated. After that, I started to study and strengthen my programming skill inclduing Data Structures and Algorithms, and I continued to review the solution of my coding challenge on Hackerrank with practice problems. 
 <br>
 
 ### Senior year as a computer science student_
-<br>
 As the graduating semester is coming, I have found many opportunities I could reach out as an undergraduate CS student. Before I graduate, I no longer had much time being a college student and had no place to retreat anymore. To get more opportunities, I knocked on the door, step into the field, and took courage to find my own way. I got Top 50 Awards as a representative of Computer Science student. I'm so proud of my team to complete the Capstone Design Project successfully. 
 <br>
 
 ### Traveling in the US, Canada, and Cuba_
-<br>
 I traveled 11 different states(Indiana, Illinois, Michigan, Ohio, Kentucky, Wisconsin, California, Arizona, Nevada, Washinton, New York) in USA this year. Additionally, I went to Toronto, Canada like a little road trip for 3days. During spring break, I adventure to Cuba for a week. I had an excited year, I made such good friends around the US, I have learned  by traveling. I truly appreciate the time and circumtances that I was given. 
 <br>
 
 ### Worship team member as a bassist_
-<br>
 I have played a bass guitar since 2014 and finally my dream came true. God always uses me in ways I never imagined. It was so grateful to play bass guitar at Hanmaum Church once a week with the best and the warmest worship team members. 
 <br>
 
