@@ -29,14 +29,18 @@ I helped New Student Orientation at Department of Computer Science for Fall 2019
 ### Projects
 
 #### Digital Harvest  Jul 2019 –  Oct 2019               	              
-Front-end Lead Developer 	
-Department of Computer Science
-Developed a web app to help food growers through online market. 
+After I completed my senior design project, I produced much of the front-end code. As a part of the Department of Computer Science, Prof. Max Fowler and I moved forward into the actual development portion of a web application to help food growers through online market. The goal of the project was to navigate the student to learn how to develop an integrated web applicaiton using the tutorial 'DIGITAL HARVEST WEBSITE' and I was a responsiblity of the Front-end development part. 
+I created the skeleton and main design of a registration page for buyers and sellers, a confirmation email page, a managing products page for local growers, a sales list page to access and ship their sales for local growers, an analytics page on sales for local growers, and a product view page, a user setting (info), a Payment detail page, and a shopping cart page to buy multiple items.
 
-#### Indoor Navigation: Improved Accessibility for People with Disabilities May 2018 – Apr 2019
-Front-end Lead Developer
-Parkview Health
-Developed data visualization and employee administration management systems.
+#### Indoor Navigation: Improved Accessibility for People with Disabilities (Sponsered by Parkview Health)
+During a year (May 2018 – Apr 2019), our team Developed a web application with data visualization and employee administration management systems. The primary purpose of this project is to improve upon the previous generation of the Indoor Navigation Mobile Application that was created for the Parkview Regional Medical Campus (PRMC) in Fort Wayne, Indiana. This project aims to utilize new technologies with a focus on the patient experience to keep PRMC ahead of the competitors. In our project, we have 3 different key parts, web development, targeted advertisements, and improved mobile application navigation. As a Front-end Lead Developer, I had focused on the web development to presents analyzed data and business analytics to administrative staff in a comprehensive manner. For example, using the webpage, the Parkview staff could determine what time are most populated, and by which age group or gender. This would allow for an in-depth look at particular patient demographics, giving Parkview the tools to improve upon their already great services.
+
+Some of my responsibilities as a Front-end Lead Developer include:
+- Architected, designed, and implemented web forms and user interfaces.
+- Experienced in Angular 7, HTML, CSS, JavaScript, and TypeScript (MEAN Stack).
+- Developed heatmap and routes chart with a visual approach for space utilization and created the registration systems with sign-up, sign-in, forgot-password, and settings pages. 
+- Involved in all the stages of the Software Development Life Cycle (RUP and Scrum).
+- Had a scrum meeting regularly 2 times a week with Front-end team, (at least) 3 times a week with the entire team. 
 
 
 <hr>
@@ -49,7 +53,7 @@ I took a technical on-site interview sometime this year for a software position 
 
 ### Senior year as a computer science student_
 <br>
-As the graduating semester is coming, I have found many opportunities I could reach out as an undergraduate CS student. Before I graduate, I no longer had much time being a college student and had no place to retreat anymore. To get more opportunities, I knocked on the door, step into the field, and took courage to find my own way. I got Top 50 Awards as a representative of Computer Science student. 
+As the graduating semester is coming, I have found many opportunities I could reach out as an undergraduate CS student. Before I graduate, I no longer had much time being a college student and had no place to retreat anymore. To get more opportunities, I knocked on the door, step into the field, and took courage to find my own way. I got Top 50 Awards as a representative of Computer Science student. I'm so proud of my team to complete the Capstone Design Project successfully. 
 <br>
 
 ### Traveling in the US, Canada, and Cuba_
