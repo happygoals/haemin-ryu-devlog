@@ -70,15 +70,6 @@ I traveled 11 different states(Indiana, Illinois, Michigan, Ohio, Kentucky, Wisc
 I have played a bass guitar since 2014 and finally my dream came true. God always uses me in ways I never imagined. It was so grateful to play bass guitar at Hanmaum Church once a week with the best and the warmest worship team members. 
 <br>
 
-## Plans for 2020
-
-1. _Be an open-handed person_: Based on what I was given by people around me, I would like to share my knowleage and contribute to the community in 2020. I will be more involved in the software engineer, volunteer, and <abbr title="Human-Computer Interaction">HCI</abbr> community this upcoming year. If there's a chance, I would like to contribute to open source project. I'm interested in voluntarily research in Software engineering or <abbr title="Human-Computer Interaction">HCI</abbr> area. 
-2. _Start writing regularly_:I'm looking to write way more than I did in 2019.
-3. _Watch! Listen! Read!_
-4. _Minimize_: I decided to practice a more empty ~~but fullfiled!~~ life to be careful not to place greed and arrogance where love should be.
-5. _Be more courage,  integrity, and courtesy_. 
-
-<hr>
 ## In Conclusion - Overall Vision
 
 When I first came to the US, I’ve got confidence at college because I already knew the power of failures.
