@@ -1,7 +1,7 @@
 # Site settings
 title:          Haemin~Ryu
 description:    "Haemin's DevLog"
-url:            "https://happygoals.github.io/haemin-ryu-devlog/"
+url:            "https://happygoals.github.io/haemin-ryu-devlog"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
@@ -9,8 +9,8 @@ google_analytics: UA—XXXXXXXX-X
 # Author
 author:
   name:         Haemin Ryu
-  url:          https://happygoals.github.io/haemin-ryu-devlog/
-  email:        happygoals95@gmail.com
+  url:          https://happygoals.github.io/haemin-ryu-devlog
+  email:        developer.haemin.ryu@gmail.com
 
 # Build settings
 markdown:       kramdown
