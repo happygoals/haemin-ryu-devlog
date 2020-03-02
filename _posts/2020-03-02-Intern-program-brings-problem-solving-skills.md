@@ -7,7 +7,7 @@ author: "Haemin Ryu"
 # Intern Program Brings Problem-solving Skills
 
 ## First Bugs: Update IWDC Member User form
-[link](www.iwdc.coop)
+[link](https://www.iwdc.coop/membership-information/become-a-member)
 * Problem from Clients: Lela needs the Canandia state to populate when country is selected. In the example she sent, the user chose Montreal and Iowa was added at the Company State. Picture included.
 * Problem I confirm: 
 * Solution
