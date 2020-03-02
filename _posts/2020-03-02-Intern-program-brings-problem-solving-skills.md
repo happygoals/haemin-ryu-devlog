@@ -10,9 +10,10 @@ author: "Haemin Ryu"
 [link](https://www.iwdc.coop/membership-information/become-a-member)
 * Problem from Clients: Lela needs the Canandia state to populate when country is selected. In the example she sent, the user chose Montreal and Iowa was added at the Company State. Picture included.
 * Problem I confirm: 
+![Dropdown1](../assets/post/030220/dropdown_statebycountry_previous.PNG")
 * Solution
 * Code
-'''ruby
+
 
   <script type="text/javascript">	
     function UpdateStatebyCountry() {
@@ -172,6 +173,6 @@ author: "Haemin Ryu"
         <option value="WY">Wyoming</option>
       </select>
     </div>
-'''
+
 * Result
 ![Dropdown1](../assets/post/030220/dropdown-address-country-state.gif "DropDown button result")
