@@ -10,7 +10,7 @@ author: "Haemin Ryu"
 [link](https://www.iwdc.coop/membership-information/become-a-member)
 * Problem from Clients: Lela needs the Canandia state to populate when country is selected. In the example she sent, the user chose Montreal and Iowa was added at the Company State. Picture included.
 * Problem I confirm: 
-![Dropdown1](../assets/post/030220/dropdown_statebycountry_previous.PNG")
+![Dropdown_previous](../assets/post/030220/dropdown_statebycountry_previous.png")
 * Solution
 * Code
 
@@ -54,7 +54,8 @@ author: "Haemin Ryu"
 </pre></td></tr></tbody></table></code></pre></figure>
 
 <code class="language-html" data-lang="html">
-    <div class="input-row">
+
+      <div class="input-row">
 	  <span style="color:#FF0000;">*</span>
       <label for="country_code">Country</label>
       <select  id="country_code" name="country_code" onchange="UpdateStatebyCountry()">
@@ -64,7 +65,6 @@ author: "Haemin Ryu"
         <option value="US">United States</option>
       </select>
     </div>
-
     <div class="input-row">
 	  <span style="color:#FF0000;">*</span>
       <label for="street">Address</label>
@@ -127,7 +127,7 @@ author: "Haemin Ryu"
         <option value="YU">Yucatan</option>
         <option value="ZA">Zacatecas</option>
       </select>
-<select  id ="state_us" name="state_code" style="display:none">
+      <select  id ="state_us" name="state_code" style="display:none">
         <option value="">--None--</option>
         <option value="AL">Alabama</option>
         <option value="AK">Alaska</option>
@@ -186,4 +186,4 @@ author: "Haemin Ryu"
     </div>
 </code>
 * Result
-![Dropdown1](../assets/post/030220/dropdown-address-country-state.gif "DropDown button result")
+![Dropdown_after](../assets/post/030220/dropdown-address-country-state.gif "DropDown button result")
