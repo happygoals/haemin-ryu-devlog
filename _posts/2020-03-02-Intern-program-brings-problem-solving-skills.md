@@ -6,6 +6,15 @@ author: "Haemin Ryu"
 
 # Intern Program Brings Problem-solving Skills
 
+## Questions that I asked My supervisor on the First Day of Internship
+1. What skills will I need to grow? 
+2. How can i be a valuable team member? 
+3. How will I fit into the culture? 
+4. What do you want me to achieve in this internship program? 
+5. What are the things you would like me to accomplish in my first week on the job?
+6. How do you prefer to communicate, email or in person? 
+7. How often would you like me to give you updates and progress reports? 
+
 ## First Bugs: Update IWDC Member User form
 [link](https://www.iwdc.coop/membership-information/become-a-member)
 * Problem from Clients: Lela needs the Canandia state to populate when country is selected. In the example she sent, the user chose Montreal and Iowa was added at the Company State. Picture included.
