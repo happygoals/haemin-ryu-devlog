@@ -53,6 +53,7 @@ author: "Haemin Ryu"
   </script> 
 </pre></td></tr></tbody></table></code></pre></figure>
 
+<code class="language-html" data-lang="html">
     <div class="input-row">
 	  <span style="color:#FF0000;">*</span>
       <label for="country_code">Country</label>
@@ -183,6 +184,6 @@ author: "Haemin Ryu"
         <option value="WY">Wyoming</option>
       </select>
     </div>
-
+</code>
 * Result
 ![Dropdown1](../assets/post/030220/dropdown-address-country-state.gif "DropDown button result")
