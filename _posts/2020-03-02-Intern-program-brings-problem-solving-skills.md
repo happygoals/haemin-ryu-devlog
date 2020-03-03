@@ -17,14 +17,14 @@ author: "Haemin Ryu"
 
 ## First Bugs: Update IWDC Member User form
 [link](https://www.iwdc.coop/membership-information/become-a-member)
-* Problem from client's request: The Canandian state to populate when country is selected. For excample, the user chose Montreal and Iowa was added at the Company State. It should be fixed.
-* Problem I confirmed: 
+### Problem from client's request: The Canandian state to populate when country is selected. For excample, the user chose Montreal and Iowa was added at the Company State. It should be fixed.
+### Problem I confirmed: 
 The state populating issue by country selection
 ![Dropdown-previous](../assets/post/030220/dropdown_statebycountry_pre.png)
-* Solution
+### Solution
 I initially thought the address order is correct because the order of the address input forms was intentionally aligned by the general American style address format. However, as a user perspective, I changed my mind about the address form order. I would like to suggest it to change the order to select the country first and then the state/province. Then, the state/province can populate when country is selected. 
 
-* JavaScript Code
+### JavaScript Code
 <figure class="highlight"><pre><code class="language-js" data-lang="js"><table class="rouge-table"><tbody><tr><td class="gutter gl">
 </td>
 <td class="code">
@@ -57,5 +57,5 @@ I initially thought the address order is correct because the order of the addres
     }
 </pre></td></tr></tbody></table></code></pre></figure>
 
-* Result
+### Result
 ![Dropdown1](../assets/post/030220/dropdown-address-country-state.gif "DropDown button result")
