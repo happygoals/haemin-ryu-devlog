@@ -10,7 +10,7 @@ author: "Haemin Ryu"
 [link](https://www.iwdc.coop/membership-information/become-a-member)
 * Problem from Clients: Lela needs the Canandia state to populate when country is selected. In the example she sent, the user chose Montreal and Iowa was added at the Company State. Picture included.
 * Problem I confirm: 
-![Dropdown_previous](../assets/post/030220/dropdown_statebycountry_previous.png")
+![Dropdown_previous](../assets/post/030220/dropdown_statebycountry_previous.png)
 * Solution
 * Code
 
