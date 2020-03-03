@@ -22,10 +22,8 @@ author: "Haemin Ryu"
 </pre>
 </td>
 <td class="code">
-<pre><span class="c1">  <script type="text/javascript">	</span>
-<span class="kd">var</span> <span class="nx">s</span> <span class="o">=</span> <span class="dl">"</span><span class="s2">JavaScript syntax highlighting</span><span class="dl">"</span><span class="p">;</span>
-<span class="nx">alert</span><span class="p">(</span><span class="nx">s</span><span class="p">);</span>
-</pre></td></tr></tbody></table></code></pre></figure>
+<pre>
+
   <script type="text/javascript">	
     function UpdateStatebyCountry() {
       var cID = document.getElementById("country_code");
@@ -53,6 +51,7 @@ author: "Haemin Ryu"
 	}
     }
   </script> 
+</pre></td></tr></tbody></table></code></pre></figure>
 
     <div class="input-row">
 	  <span style="color:#FF0000;">*</span>
