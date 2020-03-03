@@ -14,7 +14,10 @@ author: "Haemin Ryu"
 * Solution
 * Code
 
-{% highlight js %}
+<figure class="highlight"><pre><code class="language-js" data-lang="js"><table class="rouge-table"><tbody><tr><td class="gutter gl">
+</td>
+<td class="code">
+<pre>
   <script type="text/javascript">	
     function UpdateStatebyCountry() {
       var cID = document.getElementById("country_code");
@@ -42,7 +45,7 @@ author: "Haemin Ryu"
 	}
     }
     
-{% endhighlight %}
+</pre></td></tr></tbody></table></code></pre></figure>
 
 
 * Result
