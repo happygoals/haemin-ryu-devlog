@@ -14,7 +14,18 @@ author: "Haemin Ryu"
 * Solution
 * Code
 
-
+<figure class="highlight"><pre><code class="language-js" data-lang="js"><table class="rouge-table"><tbody><tr><td class="gutter gl">
+<pre class="lineno">
+1
+2
+3
+</pre>
+</td>
+<td class="code">
+<pre><span class="c1">  <script type="text/javascript">	</span>
+<span class="kd">var</span> <span class="nx">s</span> <span class="o">=</span> <span class="dl">"</span><span class="s2">JavaScript syntax highlighting</span><span class="dl">"</span><span class="p">;</span>
+<span class="nx">alert</span><span class="p">(</span><span class="nx">s</span><span class="p">);</span>
+</pre></td></tr></tbody></table></code></pre></figure>
   <script type="text/javascript">	
     function UpdateStatebyCountry() {
       var cID = document.getElementById("country_code");
