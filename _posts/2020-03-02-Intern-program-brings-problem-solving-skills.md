@@ -55,6 +55,7 @@ I initially thought the address order is correct because the order of the addres
 	       document.getElementById("state_us").style.display = "none";	
 	}
     }
+    </script>
 </pre></td></tr></tbody></table></code></pre></figure>
 
 ### Result
