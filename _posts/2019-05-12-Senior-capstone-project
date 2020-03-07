@@ -1,4 +1,53 @@
 
+## Idea Jar (June 29, 2018)
+
+Idea 1
+Problem
+Information in the database is not currently used.
+Reason
+Hospital patient’s location data can be efficiently managed to help guide patients, and also create targeted advertisement that increases Parkview’s revenue.
+Solution
+Development of a Web Application that presents analyzed data to administrative staff in a  comprehensive manner, and allowing the data to be manipulated or viewed in many different formats. 
+The development of Targeted Advertisements on the mobile application using the analyzed data. (Define - ‘patient data’ and ‘targeted advertisements’)
+
+Idea 6
+Problem
+Patients can get easily lost on Parkview’s campus, even with the provided map.
+Reason
+Parkview’s campus is huge, and consists of many locations.
+Solution
+Implement pictures and photospheres in the map which can help users identify where certain areas on the map are in real life.(Supplemental information)
+
+Idea 7
+Problem
+Users may need help while traveling across Parkview, and may need medical assistance while doing so.
+Reason
+Many people at Parkview are sick, hurt, or are over encumbered, and may frequently need assistance. 
+Solution
+Implement a Help! Button which will alert Parkview’s staff to the user’s current location and request their assistance. Only works when on Parkview’s campus.
+
+Idea 11
+Problem
+Patients who are blind or hard of sight will not be able to use the map effectively. 
+Reason
+The map will be very detailed and will be hard for some users to read. (Present with selling point)
+Solution
+Have a recorded voice within the program that will announce to the user when they enter certain buildings/areas. This can be toggled on and off.
+
+Idea 13
+Problem
+The Mobile Application currently gathers small data but could be used to gather more information to assist the Parkview Staff.
+Reason
+This will help parkview better understand their patients and allow them to push their own products.
+Solution
+Development of OPT IN/OUT Surveys or Questions that can bolster the usefulness of the web application and targeted advertisements.
+
+* Failed ideas: Create a link from the mobile device to an outside source that lights up and navigates the user in a different way, Have an sub map for each vertical level, and will update when the user goes up and down floors.
+he application can give some useful information. For example, when patients get stye, the application shows “Lemon is good for your health….”. In this case, to get this information, the patients can input their diseases or we can suggest top 5 diseases on the application by recognizing where the patients are. 
+, Create custom routing technology for wheelchair users. If a user using a wheelchair finds an obstacle directly, the position can be registered in the application, and a new route is set based on the position. Based on the collected data, it suggests a new route for wheelchair users.
+
+
+
 ## Beginning 2018
 Senior Capstone Tasks (2018 – 2019)
 1.	Establish the Scope of the project with requirements.
