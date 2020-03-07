@@ -1,1 +1,15 @@
 
+## Final 2018 
+- Data Structure:
+Our team create three different tables for web application. 
+One of them is navigation mock data for data analytics. In this table, it has 5 different columns, ID, Time, Date, Beacon and Destination. We generate mock data for this table, because it is limited for data analytics to use and collect data from beacon at engineering building. we set route beacon under the beacon column and I’ll explain more about this later. 
+The other two tables are for managing user account on web app. Once user create their userID, they need to prove EmployeeID which is already stored in Authorization table. Then, they can make their user account. 
+
+* Heat map: 
+Here is one of our data analytics named Heat map. we'll only focus on Parkview Cardiac department because it coincides with our project scope that we discuss with sponsors. we draw this map with reference with Parkview cardiac department, we then populate possible routes with beacons add destination beacons at each department and entrance. 
+
+This is the example of beacon route set. First, we set possible route from entrance beacon to destination beacon. Then we draw the beacon route.
+Each single beacon will have their own field, so that the number of visits can be stored from user’s passing by that specific beacons. Based on the specific field, we draw each beacon’s intensity on heat map. 
+Parkview staff members can see which route has the most traffic or the least traffic based on time and date chose by them. 
+
+And Heatmap.js is JavaScript library that we’ll use for viewing of data.  
