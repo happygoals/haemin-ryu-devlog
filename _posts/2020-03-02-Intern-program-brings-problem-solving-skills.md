@@ -23,7 +23,7 @@ I had watched the c# and .NET course video materials and implemented following p
 * What will you work on today? 
 * Do you have any obstacles?
 
-![list](../assets/post/030220/table-temp.PNG)
+
 
 <div class="code-example" markdown="1">
 
