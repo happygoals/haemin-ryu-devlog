@@ -23,8 +23,6 @@ I had watched the c# and .NET course video materials and implemented following p
 * What will you work on today? 
 * Do you have any obstacles?
 
-
-
 <div class="code-example" markdown="1">
 
 |  Duration   |         Date          |                                             Tasks                                            |
@@ -36,8 +34,7 @@ I had watched the c# and .NET course video materials and implemented following p
 |    Week5    | 2/17/2020 - 2/21/2020 | C# Project 5(Inheritance, Polymorphism, Interface and abstract classes, utilize unit testing)|
 |    Week6    | 2/24/2020 - 2/28/2020 | Project 'Bugs' Assigned*, Google Structure Data Testing Tool, Breadcrumb Schema Errors       |
 |    Week7    |  3/2/2020 - 3/6/2020  | DB environment setup, IWDC'Become a member'&'Member account form' Country/State Dropdown     |
-|    Week8    |  3/9/2020 - 3/13/2020 | FXB- Create new button missing when assigning limited permissions on the command center      |
-|    Week9    | 3/16/2020 - 3/20/2020 |                                (Coming soon)                                                 |
+|             |                       | Get Production ver data, Learn .NET 3.5, JavaScript, jQuery, XSLT, CirrusFramework, smtp4dev |
 
 </div>
 
