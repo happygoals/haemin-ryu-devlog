@@ -16,12 +16,13 @@ author: "Haemin Ryu"
 7. How often would you like me to give you updates and progress reports? 
 
 ## How was my experience? 
-I had watched the c# and .NET course video materials and implemented following projects. I simply went through the projects and use online resources to complete them as quickly as possible. My boss always welcome to answer the questions and updated frequently the material and supplementary videos and slide. All employee was encouraged to have an hour training every morning. 
+I had watched the c# and .NET course video materials and implemented following projects. I simply went through the projects and use online resources to complete them as quickly as possible. My boss always welcomes to answer the questions and updated frequently the material and supplementary videos and slide. All employee are encouraged to have an hour training every morning. 
 
 ## Daily Scrum List 
 * What did you do yesterday? 
 * What will you work on today? 
 * Do you have any obstacles?
+
 <div class="code-example" markdown="1">
 
 |  Duration   |         Date          |                                             Tasks                                            |
