@@ -6,7 +6,7 @@ author: "Haemin Ryu"
 
 # Intern Program Brings Problem-solving Skills
 <hr>
-@ CirrusABS, Fort Wayne, IN. January 21th - Current
+@ CirrusABS, Fort Wayne, IN. January 21st, 2020 - Current
 
 ## Questions that I asked my supervisor on the First Day of Internship
 1. What skills will I need to grow? 
