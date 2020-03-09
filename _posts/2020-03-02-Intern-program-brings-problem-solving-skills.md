@@ -43,6 +43,7 @@ I had watched the c# and .NET course video materials and implemented following p
 3. Google Analytics
 4. Configure, Create, and Apply a Macro
 5. Wordpress Installation
+
 -*Project 'Bugs' Assigned: Confirm whether it is a problem or not and suggest the solution
 
 ## First Bugs Fixing: Update IWDC Member User form
