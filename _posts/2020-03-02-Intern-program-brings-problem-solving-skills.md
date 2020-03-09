@@ -4,7 +4,7 @@ title: "Intern Program Brings Problem-solving Skills"
 author: "Haemin Ryu"
 ---
 
-# Intern Program Brings Problem-solving Skills
+# Software Engineer Internship
 <hr>
 @ CirrusABS, Fort Wayne, IN. January 21st, 2020 - Current
 
