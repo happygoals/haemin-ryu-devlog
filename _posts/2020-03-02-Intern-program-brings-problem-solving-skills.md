@@ -23,9 +23,7 @@ The state populating issue by country selection
 ![Dropdown-previous](../assets/post/030220/dropdown_statebycountry_pre.png)
 ### Solution
 I initially thought the address order is correct because the order of the address input forms was intentionally aligned by the general American style address format. However, as a user perspective, I changed my mind about the address form order. I would like to suggest it to change the order to select the country first and then the state/province. Then, the state/province can populate when country is selected. 
-
 ### JavaScript Code
-![link]()
-
+![link](https://happygoals.github.io/takeaways/jquery/jquery-with-dotnet)
 ### Result
 ![Dropdown1](../assets/post/030220/dropdown-address-country-state.gif "DropDown button result")
