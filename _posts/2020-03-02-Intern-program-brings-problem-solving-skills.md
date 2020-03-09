@@ -23,6 +23,7 @@ I had watched the c# and .NET course video materials and implemented following p
 * What will you work on today? 
 * Do you have any obstacles?
 
+<img src="../assets/post/030220/table-temp.png" alt="poster" style="width:500px;height:439px;">
 <div class="code-example" markdown="1">
 
 |  Duration   |         Date          |                                             Tasks                                            |
