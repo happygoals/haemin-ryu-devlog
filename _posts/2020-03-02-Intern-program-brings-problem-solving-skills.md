@@ -17,7 +17,8 @@ author: "Haemin Ryu"
 
 ## First Bugs: Update IWDC Member User form
 [link](https://www.iwdc.coop/membership-information/become-a-member)
-### Problem from client's request: The Canandian state to populate when country is selected. For excample, the user chose Montreal and Iowa was added at the Company State. It should be fixed.
+### Problem from client's request:
+* The Canandian state to populate when country is selected. For excample, the user chose Montreal and Iowa was added at the Company State. It should be fixed.
 ### Problem I confirmed: 
 The state populating issue by country selection
 ![Dropdown-previous](../assets/post/030220/dropdown_statebycountry_pre.png)
