@@ -24,8 +24,8 @@ I had watched the c# and .NET course video materials and implemented following p
 * Do you have any obstacles?
 <div class="code-example" markdown="1">
 
-|  Duration   |         Date          |       Tasks          |
-|:------------|:----------------------|:---------------------|
+|  Duration   |         Date          |                                             Tasks                                            |
+|:------------|:----------------------|:---------------------------------------------------------------------------------------------|
 |    Week1    | 1/21/2020 - 1/24/2020 | Reinforce C# fundamentals, C# Project1(File handling, array, unit tests, using classes)      |
 |    Week2    | 1/27/2020 - 1/31/2020 | C# Project2(Interface, Form-based application using data-bound controls, unit tests, TDD)    |
 |    Week3    |  2/3/2020 - 2/7/2020  | X Path Query, XSLT, XML, Regex, URL Rewrites Rules, SEO Friendly URL, Cirrus Web Basics*     |
@@ -35,6 +35,7 @@ I had watched the c# and .NET course video materials and implemented following p
 |    Week7    |  3/2/2020 - 3/6/2020  | DB environment setup, IWDC'Become a member'&'Member account form' Country/State Dropdown     |
 |    Week8    |  3/9/2020 - 3/13/2020 | FXB- Create new button missing when assigning limited permissions on the command center      |
 |    Week9    | 3/16/2020 - 3/20/2020 |                                (Coming soon)                                                 |
+
 </div>
 
 -*Cirrus Web Developer Basics
