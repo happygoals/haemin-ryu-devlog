@@ -36,7 +36,7 @@ I had watched the c# and .NET course video materials and implemented following p
 |    Week5    | 2/17/2020 - 2/21/2020 | C# Project 5(Inheritance, Polymorphism, Interface and abstract classes, utilize unit testing)|
 |    Week6    | 2/24/2020 - 2/28/2020 | Project 'Bugs' Assigned*, Google Structure Data Testing Tool, Breadcrumb Schema Errors       |
 |    Week7    |  3/2/2020 - 3/6/2020  | DB environment setup, IWDC'Become a member'&'Member account form' Country/State Dropdown     |
-|             |                       | Get Production ver data, Learn .NET 3.5, JavaScript, jQuery, XSLT, CirrusFramework, smtp4dev |
+|    Week8    |  3/9/2020 - 3/13/2020 | Get Production ver data, Learn .NET 3.5, JavaScript, jQuery, XSLT, CirrusFramework, smtp4dev |
 
 </div>
 
