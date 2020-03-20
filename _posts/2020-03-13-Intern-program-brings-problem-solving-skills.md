@@ -69,7 +69,7 @@ I had watched the c# and .NET course video materials and implemented following p
 * The Canandian state to populate when country is selected. For excample, the user chose Montreal and Iowa was added at the Company State. It should be fixed.
 ### Problem I confirmed: 
 The state populating issue by country selection
-![Dropdown-previous](../assets/post/030220/dropdown_statebycountry_pre.png)
+![Dropdown-previous](../assets/post/031320/dropdown_statebycountry_pre.png)
 
 ### Idea Brainstorming
 Jon's idea for IWDC dropdown to get the selected states was to create HTML element to read the state when the user hit the submit button 
@@ -81,4 +81,5 @@ I initially thought the address order is correct because the order of the addres
 [jQuery Code](https://happygoals.github.io/takeaways/jquery/jquery-with-dotnet)
 
 ### Result
-![Dropdown1](../assets/post/030220/dropdown-address-country-state.gif "DropDown button result")
+![Dropdown1](../assets/post/031320/IWDC-country-state-dropdown-result-edit-user.gif "DropDown button result 2")
+![Dropdown2](../assets/post/031320/IWDC-country-state-dropdown-result-new-user.gif "DropDown button result 3")
