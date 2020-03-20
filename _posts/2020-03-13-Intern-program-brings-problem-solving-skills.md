@@ -37,7 +37,7 @@ I had watched the c# and .NET course video materials and implemented following p
 |    Week6    | 2/24/2020 - 2/28/2020 | Project 'Bugs' Assigned*, Google Structure Data Testing Tool, Breadcrumb Schema Errors       |
 |    Week7    |  3/2/2020 - 3/6/2020  | DB environment setup, IWDC'Become a member'&'Member account form' Country/State Dropdown     |
 |    Week8    |  3/9/2020 - 3/13/2020 | Learn .NET 3.5, jQuery, XSLT, CirrusFramework, smtp4dev, Shadow Eddie for Cluster migration  |
-|    Week9    |  3/16/2020 - 3/20/2020 | Review OLT QA Tasks, Update Field Editors to include Revert to Mothership button, Synchronize my local machnine with production environment |
+
 
 </div>
 
