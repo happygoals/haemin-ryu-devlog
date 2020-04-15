@@ -8,13 +8,13 @@ author: "Haemin Ryu"
 <hr>
 @ CirrusABS, Fort Wayne, IN. January 21st, 2020 - Current (1 month) 
 
-## What the company is Looking for in a Software Developer Intern:
+## What the company is looking for in a Software Developer Intern:
 * A passion for continual learning and the ability to pick up new technologies quickly
 * Individuals with strong communication skills and the ability to respect the unique skills of your team
 * Desire to work as part of a team, be part of a collaborative process and expand your own experience
 * A problem-solving attitude within a team atmosphere
 
-## Technical Skills Required for Software Engineer Internship:
+## Technical skills required for Software Engineer Internship:
 * Pursuing a Computer Science, Software Engineering or related degree
 * Entry-level experience in HTML5, Javascript, SQL, JSON and XML
 * Object oriented development experience (.NET preferred)
