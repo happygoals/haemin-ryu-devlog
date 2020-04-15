@@ -6,7 +6,7 @@ author: "Haemin Ryu"
 
 # Software Developer Internship
 <hr>
-@ CirrusABS, Fort Wayne, IN. January 21st, 2020 - Current
+@ CirrusABS, Fort Wayne, IN. January 21st, 2020 - Current (2 months) 
 
 <div class="code-example" markdown="1">
 
