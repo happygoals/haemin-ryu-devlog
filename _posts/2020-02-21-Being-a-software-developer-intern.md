@@ -37,6 +37,7 @@ I had watched the c# and .NET course video materials and implemented following p
 * What will you work on today? 
 * Do you have any obstacles?
 
+## What I have learned so far
 <div class="code-example" markdown="1">
 
 |  Duration   |         Date          |                                          My Tasks                                            |
@@ -53,3 +54,8 @@ I had watched the c# and .NET course video materials and implemented following p
 3. Google Analytics
 4. Configure, Create, and Apply a Macro
 5. Wordpress Installation
+
+## My first company event! 
+We had been having our January company event on Friday the 31st. Company ordered pizza from Olie's. It was quite fancy and nice. They put together rules for a little game competition. We were playing arcade games at the breakroom. It was such a cool thing that we have a gaming machine at workplace. 
+
+On valentine's day, I wanted to express my thanks with sharing the chocolates with my coworkers. I felt thankful and heartfelt with Cirrus people! 
