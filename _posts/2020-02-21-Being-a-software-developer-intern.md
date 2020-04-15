@@ -47,7 +47,7 @@ I had watched the c# and .NET course video materials and implemented following p
 |    Week4    | 2/10/2020 - 2/14/2020 | WordPress Installation, C# Course Review, C# Project 3(Polymorphism), C# Project 4(MVC)      |
 |    Week5    | 2/17/2020 - 2/21/2020 | C# Project 5(Inheritance, Polymorphism, Interface and abstract classes, utilize unit testing)|
 
--*Cirrus Web Developer Basics
+* *Cirrus Web Developer Basics
 1. Add your website to SVN and add a setup script and automatic deployment
 2. Restore Local Website Database
 3. Google Analytics
