@@ -44,9 +44,12 @@ I had watched the c# and .NET course video materials and implemented following p
 |:------------|:----------------------|:---------------------------------------------------------------------------------------------|
 |    Week1    | 1/21/2020 - 1/24/2020 | Reinforce C# fundamentals, C# Project1(File handling, array, unit tests, using classes)      |
 |    Week2    | 1/27/2020 - 1/31/2020 | C# Project2(Interface, Form-based application using data-bound controls, unit tests, TDD)    |
-|    Week3    |  2/3/2020 - 2/7/2020  | X Path Query, XSLT, XML, Regex, URL Rewrites Rules, SEO Friendly URL, Cirrus Web Basics*     |
+|    Week3    |  2/3/2020 - 2/7/2020  | X Path Query, XSLT, XML, *Regex, URL Rewrites Rules, SEO Friendly URL, Cirrus Web Basics*     |
 |    Week4    | 2/10/2020 - 2/14/2020 | WordPress Installation, C# Course Review, C# Project 3(Polymorphism), C# Project 4(MVC)      |
 |    Week5    | 2/17/2020 - 2/21/2020 | C# Project 5(Inheritance, Polymorphism, Interface and abstract classes, utilize unit testing)|
+
+* *Regex
+![myfirstcompanyevent](../assets/post/022120/regex_020620.png)
 
 * *Cirrus Web Developer Basics
 1. Add your website to SVN and add a setup script and automatic deployment
@@ -56,6 +59,8 @@ I had watched the c# and .NET course video materials and implemented following p
 5. Wordpress Installation
 
 ## My first company event! 
+![myfirstcompanyevent](../assets/post/022120/myfirstcompanyevent-020320.jpg)
 We had been having our January company event on Friday the 31st. Company ordered pizza from Olie's. It was quite fancy and nice. They put together rules for a little game competition. We were playing arcade games at the breakroom. It was such a cool thing that we have a gaming machine at workplace. 
 
+![Valentine](../assets/post/022120/happyvalentine-021420.PNG)
 On valentine's day, I wanted to express my thanks with sharing the chocolates with my coworkers. I felt thankful and heartfelt with Cirrus people! 
