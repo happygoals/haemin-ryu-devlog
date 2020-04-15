@@ -23,8 +23,8 @@ author: "Haemin Ryu"
 
 </div>
 
-*Cirrus Web Developer Basics [Previous Post](https://happygoals.github.io/haemin-ryu-devlog/2020-02-21/Being-a-software-developer-intern)
-*Project 'Bugs' Assigned: Confirm whether it is a problem or not and suggest the solution
+* *Cirrus Web Developer Basics [Previous Post](https://happygoals.github.io/haemin-ryu-devlog/2020-02-21/Being-a-software-developer-intern)
+* *Project 'Bugs' Assigned: Confirm whether it is a problem or not and suggest the solution
 
 ## What I have learned during internship as a web developer so far
 * Languages: C#, ASP.NET Framework, jQuery, JavaScript, XSLT, XML, CirrusFramework
