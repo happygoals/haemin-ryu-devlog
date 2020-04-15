@@ -8,6 +8,20 @@ author: "Haemin Ryu"
 <hr>
 @ CirrusABS, Fort Wayne, IN. January 21st, 2020 - Current (2 months) 
 
+## What I have learned during internship as a web developer so far
+* Languages: C#, ASP.NET Framework, jQuery, JavaScript, XSLT, XML, CirrusFramework
+* Site Management: 
+1. Internal and external server environment
+2. SVN source control
+3. DNS Management(DNSME)
+4. Database snapshot for backup (Restore Local Website Database), How to copy DB from one to another, How to use the DB Script file(sql) on the command prompt
+5. How to synchronize the development site with the production site
+* How to use logfile.txt for debugging
+* Filezila file version control 
+* Version control on visual studio with .dll file from local bin directory to live bin directory
+* Visual Studio shortcuts 
+* How to use developer tool(F12) on Chrome with Console and how to inspect the elements 
+
 <div class="code-example" markdown="1">
 
 |  Duration   |         Date          |                                          My Tasks                                            |
@@ -26,28 +40,13 @@ author: "Haemin Ryu"
 * *Cirrus Web Developer Basics: Refer to the [previous post](https://happygoals.github.io/haemin-ryu-devlog/2020-02-21/Being-a-software-developer-intern)
 * *Project 'Bugs' Assigned: Confirm whether it is a problem or not and suggest the solution.
 
-## What I have learned during internship as a web developer so far
-* Languages: C#, ASP.NET Framework, jQuery, JavaScript, XSLT, XML, CirrusFramework
-* Site Management: 
-1. Internal and external server environment
-2. SVN source control
-3. DNS Management(DNSME)
-4. Database snapshot for backup (Restore Local Website Database), How to copy DB from one to another, How to use the DB Script file(sql) on the command prompt
-5. How to synchronize the development site with the production site
-* How to use logfile.txt for debugging
-* Filezila file version control 
-* Version control on visual studio with .dll file from local bin directory to live bin directory
-* Visual Studio shortcuts 
-* How to use developer tool(F12) on Chrome with Console and how to inspect the elements 
-
-
 ## First Bugs Fixing: Update IWDC Member User form
 [link](https://www.iwdc.coop/membership-information/become-a-member)
 ### Problem from client's request:
 * The Canandian state to populate when country is selected. For excample, the user chose Montreal and Iowa was added at the Company State. It should be fixed.
 ### Problem I confirmed: 
 The state populating issue by country selection
-![Dropdown-previous](../assets/post/031320/dropdown_statebycountry_pre.png)
+![Dropdown-previous](../assets/post/032120/dropdown_statebycountry_pre.png)
 
 ### Idea Brainstorming
 Jon's idea for IWDC dropdown to get the selected states was to create HTML element to read the state when the user hit the submit button 
