@@ -4,26 +4,9 @@ title: "Intern Program Brings Problem-solving Skills"
 author: "Haemin Ryu"
 ---
 
-# Software Engineer Internship
+# Software Developer Internship
 <hr>
 @ CirrusABS, Fort Wayne, IN. January 21st, 2020 - Current
-
-## Questions that I asked my supervisor on the First Day of Internship
-1. What skills will I need to grow? 
-2. How can i be a valuable team member? 
-3. How will I fit into the culture? 
-4. What do you want me to achieve in this internship program? 
-5. What are the things you would like me to accomplish in my first week on the job?
-6. How do you prefer to communicate, email or in person? 
-7. How often would you like me to give you updates and progress reports? 
-
-## How was my experience? 
-I had watched the c# and .NET course video materials and implemented following projects. I simply went through the projects and use online resources to complete them as quickly as possible. My boss always welcomes to answer the questions and updated frequently the material and supplementary videos and slide. All employee are encouraged to have an hour training every morning. 
-
-## Daily Scrum List 
-* What did you do yesterday? 
-* What will you work on today? 
-* Do you have any obstacles?
 
 <div class="code-example" markdown="1">
 
@@ -38,18 +21,12 @@ I had watched the c# and .NET course video materials and implemented following p
 |    Week7    |  3/2/2020 - 3/6/2020  | DB environment setup, IWDC'Become a member'&'Member account form' Country/State Dropdown     |
 |    Week8    |  3/9/2020 - 3/13/2020 | Learn .NET 3.5, jQuery, XSLT, CirrusFramework, smtp4dev, Shadow Eddie for Cluster migration  |
 
-
 </div>
 
 -*Cirrus Web Developer Basics
-1. Add your website to SVN and add a setup script and automatic deployment
-2. Restore Local Website Database
-3. Google Analytics
-4. Configure, Create, and Apply a Macro
-5. Wordpress Installation
-
 -*Project 'Bugs' Assigned: Confirm whether it is a problem or not and suggest the solution
-## What I have learned during internship as a web developer 
+
+## What I have learned during internship as a web developer so far
 * Languages: C#, ASP.NET Framework, jQuery, JavaScript, XSLT, XML, CirrusFramework
 * Site Management: 
 1. Internal and external server environment
