@@ -34,6 +34,7 @@ author: "Haemin Ryu"
 |    Week6    | 2/24/2020 - 2/28/2020 | Project 'Bugs' Assigned*, Google Structure Data Testing Tool, Breadcrumb Schema Errors       |
 |    Week7    |  3/2/2020 - 3/6/2020  | DB environment setup, IWDC'Become a member'&'Member account form' Country/State Dropdown     |
 |    Week8    |  3/9/2020 - 3/13/2020 | Learn .NET 3.5, jQuery, XSLT, CirrusFramework, smtp4dev, Shadow Eddie for Cluster migration  |
+|    Week9    | 3/16/2020 - 3/20/2020 | SVN/Production Environment version control staging, OLT QA, Update Field Editors             |
 
 </div>
 
@@ -54,7 +55,13 @@ Eddie's idea for IWDC dropdown to get the selected states to make 3 different dr
 
 ### Solution
 I initially thought the address order is correct because the order of the address input forms was intentionally aligned by the general American style address format. However, as a user perspective, I changed my mind about the address form order. I would like to suggest it to change the order to select the country first and then the state/province. Then, the state/province can populate when country is selected. 
+
+
 ### Implementation with jQuery, .Net Framework 3.5, xslt, Cirrus Framework, smtp4dev
++ populate a select dropdown list with JSON, c#, javaScript, jQuery
++ get the state dropdown value to display on the form
++ send the email successfully
++ initialize the original state value from xml(location) and set as a pre-selected option of dropdown in jQuery
 [jQuery Code](https://happygoals.github.io/takeaways/jquery/jquery-with-dotnet)
 
 ### Result
